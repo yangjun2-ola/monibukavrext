@@ -1,0 +1,3 @@
+/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/.cxx/RelWithDebInfo/t265q6a1/x86/CMakeFiles/vrwebrtc.dir
+/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/.cxx/RelWithDebInfo/t265q6a1/x86/CMakeFiles/edit_cache.dir
+/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/.cxx/RelWithDebInfo/t265q6a1/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+0	274	1742581674488935843	CMakeFiles/vrwebrtc.dir/native-lib.cpp.o	cb035d7207ba1967
+274	369	1742581674555400882	/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/build/intermediates/cxx/Debug/r46q556k/obj/arm64-v8a/libvrwebrtc.so	63ca1a52e5505ab0
+0	25	0	clean	d1c675c9b67293d6
+0	2501	1742582328795193514	CMakeFiles/vrwebrtc.dir/native-lib.cpp.o	cb035d7207ba1967
+2501	2702	1742582328980749221	/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/build/intermediates/cxx/Debug/r46q556k/obj/arm64-v8a/libvrwebrtc.so	63ca1a52e5505ab0
+0	10	0	clean	d1c675c9b67293d6
+6	897	1742582355916303335	CMakeFiles/vrwebrtc.dir/native-lib.cpp.o	cb035d7207ba1967
+897	1113	1742582356119107932	/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/build/intermediates/cxx/Debug/r46q556k/obj/arm64-v8a/libvrwebrtc.so	63ca1a52e5505ab0

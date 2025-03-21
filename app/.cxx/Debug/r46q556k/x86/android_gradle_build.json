@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/olaola/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/.cxx/Debug/r46q556k/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/olaola/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/.cxx/Debug/r46q556k/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "vrwebrtc::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "vrwebrtc",
+      "output": "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglassaar/app/build/intermediates/cxx/Debug/r46q556k/obj/x86/libvrwebrtc.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/olaola/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/olaola/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

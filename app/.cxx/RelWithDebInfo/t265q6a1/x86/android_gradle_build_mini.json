@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/olaola/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/.cxx/RelWithDebInfo/t265q6a1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/olaola/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/.cxx/RelWithDebInfo/t265q6a1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "vrwebrtc::@6890427a1f51a3e7e1df": {
+      "artifactName": "vrwebrtc",
+      "abi": "x86",
+      "output": "/Users/olaola/Desktop/ola/opensource/monibukuclientvrglass/app/build/intermediates/cxx/RelWithDebInfo/t265q6a1/obj/x86/libvrwebrtc.so",
+      "runtimeFiles": []
+    }
+  }
+}
